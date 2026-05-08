@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Growth Circle//Rainmaker Pitch//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:rainmaker-pitch-2026-05-12@growyournetworth.com
+DTSTAMP:20260508T120000Z
+DTSTART:20260512T163000Z
+DTEND:20260512T173000Z
+SUMMARY:Rainmaker Live Pitch - Growth Circle
+DESCRIPTION:Live pitch with Augustus Doricko\, founder of Rainmaker. $450M valuation\, $6M allocation\, $10K min. Accredited only.\n\nJoin via Zoom: https://us06web.zoom.us/j/88002089390
+LOCATION:https://us06web.zoom.us/j/88002089390
+URL:https://us06web.zoom.us/j/88002089390
+END:VEVENT
+END:VCALENDAR
